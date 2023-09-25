@@ -7,7 +7,7 @@
  *   Copyright (C) 2007-2010 Øyvind Harboe                                 *
  *   oyvind.harboe@zylin.com                                               *
  *                                                                         *
- *   Copyright (C) 2008 by Spencer Oliver                                  *
+ *   Copyright (C) 2008 by  Spencer Oliver                                  *
  *   spen@spen-soft.co.uk                                                  *
  ***************************************************************************/
 
